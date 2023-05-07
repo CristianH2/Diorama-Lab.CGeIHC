@@ -1,0 +1,48 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 01.05.2023 13:33:14
+
+newmtl 02___Default
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8588 0.8863 0.8078
+	Kd 0.8588 0.8863 0.8078
+	Ks 0.2700 0.2700 0.2700
+	Ke 0.0000 0.0000 0.0000
+	map_Ke Map__2_Falloff.tga
+	map_bump -bm -0.1600 Map__3_Smoke.tga
+
+newmtl 01___Default
+	Ns 21.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.1530 0.1530 0.1530
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__1_Gradient_Ramp.tga
+	map_Kd Map__1_Gradient_Ramp.tga
+	map_Ke Map__1_Gradient_Ramp.tga
+	map_bump -bm 0.4900 Map__1_Gradient_Ramp.tga
+
+newmtl 03___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__5_Falloff.tga
+	map_Kd Map__5_Falloff.tga
+	map_Ke Map__5_Falloff.tga
+	map_d Map__7_Falloff.tga
